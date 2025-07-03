@@ -5,7 +5,7 @@ A comprehensive Python-based banking system showcasing fundamental programming c
 ## Course Information
 
 **COMPSCI 1MD3 - Introduction to Programming**  
-McMaster University, Winter 2025  
+McMaster University, Spring 2025  
 **Instructor:** Dr. Mohamadreza Sabeghi
 
 *Special recognition to our professor for designing these engaging, real-world assignments that perfectly demonstrate core programming concepts. His clear instruction and thoughtful assignment design made learning Python both challenging and rewarding.*
